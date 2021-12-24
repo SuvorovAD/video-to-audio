@@ -1,4 +1,4 @@
-# Python video to audio converter
+# Python video to audio converter for Windows
 
 ## Установка
 Для начала нужно установить [Python](python.org/downloads)
